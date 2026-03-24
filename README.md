@@ -1,4 +1,4 @@
 # coderwithzone
 This is my second Repository
 <br>
-Author - Nikhil
+Author - Nikhil Gupta
